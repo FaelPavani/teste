@@ -950,3 +950,16 @@ footer {
     display: none;
 }
 }
+@media (max-width: 550px){
+
+
+    .area-img-inicio .text-cover {
+        top: 50px;
+    }
+
+    footer {
+      margin-top: 200px;
+      display: flex;
+      height: 155px;
+    }
+}
